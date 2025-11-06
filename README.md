@@ -1,9 +1,9 @@
 <div>
   <h1>Prazer, Laís Guedes 👋🏾</h1>
   <p>
-    <b>Desenvolvedora Front-end</b> 
-    coimbra, Portugal
+    <b>Desenvolvedora Fullstack</b> 
   </p>
+  <p>Coimbra, Portugal</p>
   
   <a href="https://www.linkedin.com/in/lais-almeida-guedes-8b4771361">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -25,7 +25,7 @@ Tenho experiência com HTML, CSS, JavaScript, Bootstrap, consumo de APIs e conhe
 ## ✨ Projetos em destaque
 
 - [Portfolio Pessoal](https://github.com/LaisGuedesA/Portifolio-Pessoal) – Meu portfólio profissional com projetos, experiências e habilidades.
-- [Projeto Corvo](https://github.com/LaisGuedesA/snap) – Aplicação com foco em usabilidade e integração de recursos modernos.
+- [Projeto Snap](https://github.com/LaisGuedesA/snap) – Aplicação com foco em usabilidade e integração de recursos modernos.
 - [Projeto Workit](https://github.com/LaisGuedesA/workit) – Landing Page com foco em testar habilidades de HTML, CSS e Responsividade.
 <hr />
 
