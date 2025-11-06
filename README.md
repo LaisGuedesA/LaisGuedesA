@@ -26,6 +26,7 @@ Tenho experiência com HTML, CSS, JavaScript, Bootstrap, consumo de APIs e conhe
 
 - [Portfolio Pessoal](https://github.com/LaisGuedesA/Portifolio-Pessoal) – Meu portfólio profissional com projetos, experiências e habilidades.
 - [Projeto Corvo](https://github.com/LaisGuedesA/snap) – Aplicação com foco em usabilidade e integração de recursos modernos.
+- [Projeto Workit](https://github.com/LaisGuedesA/workit) – Landing Page com foco em testar habilidades de HTML, CSS e Responsividade.
 <hr />
 
 ## 🚀 Tecnologias que mais utilizo
